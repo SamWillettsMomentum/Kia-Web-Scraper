@@ -1,0 +1,62 @@
+{
+  "last_updated": "2026-06-28T23:58:27.693744+00:00",
+  "source": "https://www.kia.co.nz/kia-new-zealand",
+  "vehicles": {
+    "EV3": {
+      "from_price": "$55,520",
+      "url": "https://www.kia.co.nz/vehicles/ev3"
+    },
+    "EV4": {
+      "from_price": "$63,990",
+      "url": "https://www.kia.co.nz/vehicles/ev4"
+    },
+    "EV5": {
+      "from_price": "$67,990",
+      "url": "https://www.kia.co.nz/vehicles/ev5"
+    },
+    "EV6": {
+      "from_price": "$83,070",
+      "url": "https://www.kia.co.nz/vehicles/ev6"
+    },
+    "EV9": {
+      "from_price": "$110,790",
+      "url": "https://www.kia.co.nz/vehicles/ev9"
+    },
+    "Picanto": {
+      "from_price": "$24,490",
+      "url": "https://www.kia.co.nz/vehicles/picanto"
+    },
+    "Stonic": {
+      "from_price": "$29,990",
+      "url": "https://www.kia.co.nz/vehicles/stonic"
+    },
+    "Niro": {
+      "from_price": "$43,990",
+      "url": "https://www.kia.co.nz/vehicles/niro"
+    },
+    "Seltos": {
+      "from_price": "$33,990",
+      "url": "https://www.kia.co.nz/vehicles/seltos"
+    },
+    "Sportage": {
+      "from_price": "$49,990",
+      "url": "https://www.kia.co.nz/vehicles/sportage"
+    },
+    "Sorento": {
+      "from_price": "$66,490",
+      "url": "https://www.kia.co.nz/vehicles/sorento"
+    },
+    "Carnival": {
+      "from_price": "$68,990",
+      "url": "https://www.kia.co.nz/vehicles/carnival"
+    },
+    "Tasman": {
+      "from_price": "$43,690",
+      "url": "https://www.kia.co.nz/vehicles/tasman"
+    },
+    "PV5": {
+      "from_price": "$64,990",
+      "url": "https://www.kia.co.nz/vehicles/pv5"
+    }
+  }
+}
