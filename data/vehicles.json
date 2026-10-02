@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T23:25:56.616800+00:00",
+  "last_updated": "2026-10-02T23:32:10.475281+00:00",
   "source": "https://www.kia.co.nz/kia-new-zealand",
   "vehicles": {
     "EV3": {
@@ -34,6 +34,10 @@
       "from_price": "$43,990",
       "url": "https://www.kia.co.nz/vehicles/niro"
     },
+    "Seltos Hybrid": {
+      "from_price": "$39,990",
+      "url": "https://www.kia.co.nz/vehicles/seltos"
+    },
     "Sportage": {
       "from_price": "$49,990",
       "url": "https://www.kia.co.nz/vehicles/sportage"
@@ -53,10 +57,6 @@
     "PV5": {
       "from_price": "$64,990",
       "url": "https://www.kia.co.nz/vehicles/pv5"
-    },
-    "Seltos Hybrid": {
-      "from_price": "$39,990",
-      "url": "https://www.kia.co.nz/vehicles/seltos"
     }
   }
 }
